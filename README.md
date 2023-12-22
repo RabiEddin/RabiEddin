@@ -1,6 +1,6 @@
 ### Hi there 👋
 📚 I'm studying Pattern mining, Sejong University, South Korea. <br/>
-I mainly use c(++). 🔑 <br/>
+🔑 I mainly use c(++). <br/>
 🌱 I’m currently learning high utility pattern mining. <br/> 
 
 
