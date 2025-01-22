@@ -1,5 +1,5 @@
 ### Hi there 👋
-📚 I was studied Pattern mining, Sejong University, South Korea. <br/>
+📚 I studied Pattern mining, Sejong University, South Korea. <br/>
 🔑 I mainly use c(++), python. <br/>
 🌱 I’m currently learning AI. <br/> 
 
@@ -12,7 +12,7 @@
 
 
 ### Career
-- I'm studying (Bachelor & Master, Integrated) Computer Science at Sejong University.
+- I studied (Bachelor & Master, Integrated) Computer Science at Sejong University.
 
   
 <!--
